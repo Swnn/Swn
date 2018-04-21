@@ -1,0 +1,21 @@
+1、ctrl+f   查找。
+2、id在css里面是#，class在css里面是"."。
+3、cursor: pointer;  /*鼠标调成小手*/
+4、white-space: nowrap;   /*强制不换行*/
+5、
+overflow: hidden;     /*清除浮动、溢出隐藏*/
+height: 20px;    /*隐藏时要加上高度才有效果*/
+margin-left: -1px;  /*配合溢出隐藏将左边框去掉*/
+
+5、
+border-top-right-radius: 5px;将右上角的矩形变成圆形。
+border-radius: 0px;   /*去除圆角*/
+border-top-left-radius: 0px;   去除左上角圆角。
+z-index: 300; /*设置级数、优先级，可将优先级低的遮到下面不显示*/
+5、
+用select进行下拉列表的设置，用option对下拉列表进行填充值。
+6、vertical-align: top;让文字垂直居中。
+7、class="fn-hide"  隐藏该类的内容。
+8、"&gt;"表示">"
+9、W3school 手册。
+10、"&#165;"表示金钱符号："￥"。"&copy;" copy符号.
