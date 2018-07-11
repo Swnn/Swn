@@ -115,7 +115,7 @@ setInterval(function(){
 function HDroll(id,time){
     var time=time || 2500,
     speed=speed || 'slow';
-    $('#'+id+'ul li:last').height());
+    $('#'+id+'ul li:last').height();
     setInterval(function(){
         $('#'+id+' ul').prepend($('#'+id+'ul li:last').css("height","0px").animate({"height":"53px"},"slow"));//动画效果
     },time)
